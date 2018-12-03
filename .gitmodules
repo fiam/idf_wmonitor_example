@@ -1,0 +1,3 @@
+[submodule "components/idf_wmonitor_lib"]
+	path = components/idf_wmonitor_lib
+	url = git@github.com:fiam/idf_wmonitor_lib.git
